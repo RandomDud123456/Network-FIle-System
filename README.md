@@ -389,9 +389,3 @@ The codebase has undergone significant refactoring to improve maintainability an
 - **Result**: Clean separation of concerns with focused modules
 - **Benefits**: Better maintainability, testability, and extensibility
 - **Performance**: Improved modularity without sacrificing efficiency
-
-## Author
-
-C Swaroop
-Email: cswaroop2004@gmail.com
-GitHub: https://github.com/SwarC7
